@@ -1,0 +1,20 @@
+2022-03-17/17:13:22		Error occured while validating FileName [Errno 2] No such file or directory: 'Validated_Prediction_Raw_File/Good_Raw'
+2022-03-17/17:19:58		Error occured while validating FileName [Errno 2] No such file or directory: 'Validated_Prediction_Raw_File/Good_Raw'
+2022-03-17/17:23:23		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2022-03-17/17:28:05		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2022-03-17/17:34:20		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2022-03-17/17:37:39		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2022-03-17/17:41:37		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2022-03-17/17:45:45		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2022-03-17/18:24:30		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2022-03-17/18:35:09		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2022-03-17/19:08:08		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2022-03-17/19:12:51		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2022-03-17/19:39:54		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2022-03-17/19:42:50		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2022-03-17/19:45:55		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2022-03-17/19:49:07		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2022-03-17/19:52:25		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2022-03-23/12:04:23		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2022-03-23/12:12:45		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv
+2022-03-23/16:52:39		Valid File name!! File moved to GoodRaw Folder :: fraudDetection_021119920_010222.csv

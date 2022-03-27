@@ -1,0 +1,154 @@
+2022-03-15/16:06:50		Validation of Training Data initiated
+2022-03-15/16:06:50		Raw Data validation Complete. Starting data Transformation
+2022-03-15/16:06:50		Error Occured in Main Traing Validation steps, check sub-logs for info
+2022-03-15/16:07:35		Validation of Training Data initiated
+2022-03-15/16:07:35		Error Occured in Main Traing Validation steps, check sub-logs for info
+2022-03-15/16:10:18		Validation of Training Data initiated
+2022-03-15/16:10:18		Error Occured in Main Traing Validation steps, check sub-logs for info
+2022-03-15/16:25:25		Validation of Training Data initiated
+2022-03-15/16:26:52		Raw Data validation Complete. Starting data Transformation
+2022-03-15/16:36:16		Validation of Training Data initiated
+2022-03-15/16:47:17		Validation of Training Data initiated
+2022-03-15/16:50:55		Validation of Training Data initiated
+2022-03-15/16:59:37		Validation of Training Data initiated
+2022-03-15/17:04:58		Validation of Training Data initiated
+2022-03-15/17:09:31		Validation of Training Data initiated
+2022-03-15/17:10:27		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-15/17:12:26		Validation of Training Data initiated
+2022-03-15/17:12:26		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-15/17:13:50		Validation of Training Data initiated
+2022-03-15/17:14:15		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-15/17:16:57		Validation of Training Data initiated
+2022-03-15/17:17:15		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-15/17:18:57		Data Trabsformation Complete
+2022-03-15/17:58:06		Validation of Training Data initiated
+2022-03-15/17:58:09		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-15/17:58:32		Data Trabsformation Complete
+2022-03-15/18:00:30		Error Occured in Main Traing Validation steps, check sub-logs for info
+2022-03-15/18:11:20		Validation of Training Data initiated
+2022-03-15/18:11:21		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-15/18:11:31		Data Trabsformation Complete
+2022-03-15/18:19:30		Validation of Training Data initiated
+2022-03-15/18:19:30		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-15/18:19:44		Data Trabsformation Complete
+2022-03-15/18:30:33		Validation of Training Data initiated
+2022-03-15/18:30:33		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-15/18:30:34		Data Trabsformation Complete
+2022-03-15/18:31:31		Validation of Training Data initiated
+2022-03-15/18:31:31		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-15/18:31:31		Data Trabsformation Complete
+2022-03-15/18:33:46		Validation of Training Data initiated
+2022-03-15/18:33:46		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-15/18:33:46		Data Trabsformation Complete
+2022-03-15/18:34:57		Validation of Training Data initiated
+2022-03-15/18:34:57		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-15/18:34:57		Data Trabsformation Complete
+2022-03-15/18:36:41		Validation of Training Data initiated
+2022-03-15/18:36:41		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-15/18:36:41		Data Trabsformation Complete
+2022-03-15/18:41:22		Validation of Training Data initiated
+2022-03-15/18:41:22		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-15/18:41:23		Data Trabsformation Complete
+2022-03-15/18:44:18		Error Occured in Main Traing Validation steps, check sub-logs for info
+2022-03-15/18:48:24		Validation of Training Data initiated
+2022-03-15/18:48:24		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-15/18:48:24		Data Trabsformation Complete
+2022-03-15/18:49:47		Error Occured in Main Traing Validation steps, check sub-logs for info
+2022-03-15/18:58:41		Validation of Training Data initiated
+2022-03-15/18:58:41		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-15/18:58:41		Data Trabsformation Complete
+2022-03-15/19:08:34		Validation of Training Data initiated
+2022-03-15/19:08:34		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-15/19:08:35		Data Trabsformation Complete
+2022-03-15/19:08:58		Table Created and Data Insertion is Complete
+2022-03-15/19:10:41		Validation of Training Data initiated
+2022-03-15/19:10:41		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-15/19:10:42		Data Trabsformation Complete
+2022-03-15/19:11:29		Validation of Training Data initiated
+2022-03-15/19:11:29		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-15/19:11:29		Data Trabsformation Complete
+2022-03-15/19:11:30		Error Occured in Main Traing Validation steps, check sub-logs for info
+2022-03-15/19:11:39		Validation of Training Data initiated
+2022-03-15/19:11:39		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-15/19:11:39		Data Trabsformation Complete
+2022-03-15/19:13:23		Validation of Training Data initiated
+2022-03-15/19:13:23		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-15/19:13:23		Data Trabsformation Complete
+2022-03-15/19:13:56		Validation of Training Data initiated
+2022-03-15/19:13:56		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-15/19:13:57		Data Trabsformation Complete
+2022-03-15/19:15:15		Validation of Training Data initiated
+2022-03-15/19:15:25		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-15/19:18:50		Validation of Training Data initiated
+2022-03-15/19:19:00		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-15/19:19:51		Data Trabsformation Complete
+2022-03-15/19:20:31		Validation of Training Data initiated
+2022-03-15/19:20:35		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-15/19:20:37		Data Trabsformation Complete
+2022-03-15/19:24:06		Validation of Training Data initiated
+2022-03-15/19:24:10		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-15/19:25:31		Data Trabsformation Complete
+2022-03-15/19:25:34		Table Created and Data Insertion is Complete
+2022-03-16/08:47:02		Validation of Training Data initiated
+2022-03-16/08:47:17		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-16/08:47:24		Data Trabsformation Complete
+2022-03-16/08:49:46		Validation of Training Data initiated
+2022-03-16/08:49:51		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-16/08:50:04		Data Trabsformation Complete
+2022-03-16/08:56:19		Table Created and Data Insertion is Complete
+2022-03-16/09:29:11		Validation of Training Data initiated
+2022-03-16/09:29:11		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-16/09:29:11		Data Trabsformation Complete
+2022-03-16/09:30:39		Table Created and Data Insertion is Complete
+2022-03-16/09:36:27		Validation of Training Data initiated
+2022-03-16/09:36:27		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-16/09:36:28		Data Trabsformation Complete
+2022-03-16/09:37:51		Table Created and Data Insertion is Complete
+2022-03-16/09:41:01		Validation of Training Data initiated
+2022-03-16/09:41:01		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-16/09:41:01		Data Trabsformation Complete
+2022-03-16/09:42:28		Table Created and Data Insertion is Complete
+2022-03-16/09:59:14		Validation of Training Data initiated
+2022-03-16/09:59:14		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-16/09:59:15		Data Trabsformation Complete
+2022-03-16/10:00:42		Table Created and Data Insertion is Complete
+2022-03-16/17:36:24		Validation of Training Data initiated
+2022-03-16/17:36:24		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-16/17:36:24		Data Trabsformation Complete
+2022-03-16/17:37:54		Table Created and Data Insertion is Complete
+2022-03-16/18:03:52		Validation of Training Data initiated
+2022-03-16/18:03:52		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-16/18:03:52		Data Trabsformation Complete
+2022-03-16/18:05:23		Table Created and Data Insertion is Complete
+2022-03-16/18:16:37		Validation of Training Data initiated
+2022-03-16/18:16:37		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-16/18:16:37		Data Trabsformation Complete
+2022-03-16/18:18:07		Table Created and Data Insertion is Complete
+2022-03-16/18:19:26		Validation of Training Data initiated
+2022-03-16/18:19:26		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-16/18:19:26		Data Trabsformation Complete
+2022-03-16/18:20:52		Table Created and Data Insertion is Complete
+2022-03-16/18:22:29		Validation of Training Data initiated
+2022-03-16/18:22:29		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-16/18:22:29		Data Trabsformation Complete
+2022-03-16/18:23:55		Table Created and Data Insertion is Complete
+2022-03-16/18:33:04		Validation of Training Data initiated
+2022-03-16/18:33:04		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-16/18:33:04		Data Trabsformation Complete
+2022-03-16/18:34:29		Table Created and Data Insertion is Complete
+2022-03-16/18:36:46		Validation of Training Data initiated
+2022-03-16/18:36:46		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-16/18:36:46		Data Trabsformation Complete
+2022-03-16/18:38:09		Table Created and Data Insertion is Complete
+2022-03-16/18:44:01		Validation of Training Data initiated
+2022-03-16/18:44:01		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-16/18:44:01		Data Trabsformation Complete
+2022-03-16/18:45:26		Table Created and Data Insertion is Complete
+2022-03-16/18:50:19		Validation of Training Data initiated
+2022-03-16/18:50:19		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-16/18:50:19		Data Trabsformation Complete
+2022-03-16/18:51:43		Table Created and Data Insertion is Complete
+2022-03-16/18:57:51		Validation of Training Data initiated
+2022-03-16/18:57:51		Raw Data validation Complete. Starting Training_Batch_Files Transformation
+2022-03-16/18:57:51		Data Trabsformation Complete
+2022-03-16/18:59:15		Table Created and Data Insertion is Complete

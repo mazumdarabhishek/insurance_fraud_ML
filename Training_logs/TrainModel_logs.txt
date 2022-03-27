@@ -1,0 +1,219 @@
+2022-03-15/19:09:37		TrainingModel method initiated !
+2022-03-15/19:09:43		Entered the getData method of dataGetter class
+2022-03-15/19:09:43		Error occured during loading Training_Batch_Files at getData():: [Errno 2] No such file or directory: 'Training_FileFromDB/InputFile.csv'
+2022-03-16/09:00:31		TrainingModel method initiated !
+2022-03-16/09:00:34		Entered the getData method of dataGetter class
+2022-03-16/09:00:34		Error occured during loading Training_Batch_Files at getData():: [Errno 2] No such file or directory: 'Training_FileFromDB/InputFile.csv'
+2022-03-16/09:30:52		TrainingModel method initiated !
+2022-03-16/09:30:56		Entered the getData method of dataGetter class
+2022-03-16/09:30:56		Data Loading successful
+2022-03-16/09:31:07		Entered the remove_columns method of the Preprocessor class
+2022-03-16/09:31:25		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-03-16/09:31:38		Entered the encode_categorical_columns method of the Preprocessor class
+2022-03-16/09:32:43		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-03-16/09:32:52		Entered the separate_label_feature method of the Preprocessor class
+2022-03-16/09:32:52		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2022-03-16/09:32:58		Entered the elbow_plot method of the KMeansClustering class
+2022-03-16/09:32:58		Exception occured in elbow_plot method of the KMeansClustering class. Exception message:  Input contains NaN, infinity or a value too large for dtype('float64').
+2022-03-16/09:32:58		Finding the number of clusters failed. Exited the elbow_plot method of the KMeansClustering class
+2022-03-16/09:38:04		TrainingModel method initiated !
+2022-03-16/09:38:09		Entered the getData method of dataGetter class
+2022-03-16/09:38:09		Data Loading successful
+2022-03-16/09:38:15		Entered the remove_columns method of the Preprocessor class
+2022-03-16/09:38:15		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-03-16/09:38:20		Entered the encode_categorical_columns method of the Preprocessor class
+2022-03-16/09:38:20		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-03-16/09:38:23		Entered the separate_label_feature method of the Preprocessor class
+2022-03-16/09:38:23		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2022-03-16/09:39:04		Entered the elbow_plot method of the KMeansClustering class
+2022-03-16/09:39:04		Exception occured in elbow_plot method of the KMeansClustering class. Exception message:  Input contains NaN, infinity or a value too large for dtype('float64').
+2022-03-16/09:39:04		Finding the number of clusters failed. Exited the elbow_plot method of the KMeansClustering class
+2022-03-16/09:42:28		TrainingModel method initiated !
+2022-03-16/09:42:28		Entered the getData method of dataGetter class
+2022-03-16/09:42:28		Data Loading successful
+2022-03-16/09:42:28		Entered the remove_columns method of the Preprocessor class
+2022-03-16/09:42:28		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-03-16/09:42:28		Entered the encode_categorical_columns method of the Preprocessor class
+2022-03-16/09:42:28		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-03-16/09:42:28		Entered the separate_label_feature method of the Preprocessor class
+2022-03-16/09:42:28		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2022-03-16/09:42:38		Entered the elbow_plot method of the KMeansClustering class
+2022-03-16/10:00:42		TrainingModel method initiated !
+2022-03-16/10:00:42		Entered the getData method of dataGetter class
+2022-03-16/10:00:42		Data Loading successful
+2022-03-16/10:00:42		Entered the remove_columns method of the Preprocessor class
+2022-03-16/10:00:42		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-03-16/10:00:42		Entered the encode_categorical_columns method of the Preprocessor class
+2022-03-16/10:00:42		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-03-16/10:00:42		Entered the separate_label_feature method of the Preprocessor class
+2022-03-16/10:00:42		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2022-03-16/10:00:50		Entered the elbow_plot method of the KMeansClustering class
+2022-03-16/17:38:15		TrainingModel method initiated !
+2022-03-16/17:39:25		Entered the getData method of dataGetter class
+2022-03-16/17:39:29		Data Loading successful
+2022-03-16/17:40:17		Entered the remove_columns method of the Preprocessor class
+2022-03-16/17:40:46		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-03-16/17:41:06		Entered the encode_categorical_columns method of the Preprocessor class
+2022-03-16/17:41:53		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-03-16/17:42:33		Entered the separate_label_feature method of the Preprocessor class
+2022-03-16/17:42:33		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2022-03-16/17:42:53		Entered the elbow_plot method of the KMeansClustering class
+2022-03-16/18:05:31		TrainingModel method initiated !
+2022-03-16/18:05:35		Entered the getData method of dataGetter class
+2022-03-16/18:05:35		Data Loading successful
+2022-03-16/18:05:49		Entered the remove_columns method of the Preprocessor class
+2022-03-16/18:05:49		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-03-16/18:05:51		Entered the encode_categorical_columns method of the Preprocessor class
+2022-03-16/18:05:51		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-03-16/18:05:56		Entered the separate_label_feature method of the Preprocessor class
+2022-03-16/18:05:56		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2022-03-16/18:06:02		Entered the elbow_plot method of the KMeansClustering class
+2022-03-16/18:18:24		TrainingModel method initiated !
+2022-03-16/18:18:26		Entered the getData method of dataGetter class
+2022-03-16/18:18:26		Data Loading successful
+2022-03-16/18:18:27		Entered the remove_columns method of the Preprocessor class
+2022-03-16/18:18:27		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-03-16/18:20:58		TrainingModel method initiated !
+2022-03-16/18:21:13		Entered the getData method of dataGetter class
+2022-03-16/18:21:13		Data Loading successful
+2022-03-16/18:21:24		Entered the remove_columns method of the Preprocessor class
+2022-03-16/18:21:24		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-03-16/18:21:33		Entered the is_null_present method of the Preprocessor class
+2022-03-16/18:21:33		Exception occured in is_null_present method of the Preprocessor class. Exception message:  [Errno 2] No such file or directory: 'preprocessing_data/null_values.csv'
+2022-03-16/18:21:33		Finding missing values failed. Exited the is_null_present method of the Preprocessor class
+2022-03-16/18:24:02		TrainingModel method initiated !
+2022-03-16/18:24:05		Entered the getData method of dataGetter class
+2022-03-16/18:24:05		Data Loading successful
+2022-03-16/18:24:07		Entered the remove_columns method of the Preprocessor class
+2022-03-16/18:24:07		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-03-16/18:24:13		Entered the is_null_present method of the Preprocessor class
+2022-03-16/18:27:13		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-03-16/18:27:28		Entered the impute_missing_values method of the Preprocessor class
+2022-03-16/18:27:51		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-03-16/18:28:10		Entered the encode_categorical_columns method of the Preprocessor class
+2022-03-16/18:28:41		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-03-16/18:28:55		Entered the separate_label_feature method of the Preprocessor class
+2022-03-16/18:29:05		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2022-03-16/18:29:17		Entered the elbow_plot method of the KMeansClustering class
+2022-03-16/18:30:45		The optimum number of clusters is: 2 . Exited the elbow_plot method of the KMeansClustering class
+2022-03-16/18:31:05		Entered the create_clusters method of the KMeansClustering class
+2022-03-16/18:34:45		TrainingModel method initiated !
+2022-03-16/18:35:00		Entered the getData method of dataGetter class
+2022-03-16/18:35:00		Data Loading successful
+2022-03-16/18:35:10		Entered the remove_columns method of the Preprocessor class
+2022-03-16/18:35:10		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-03-16/18:35:20		Entered the is_null_present method of the Preprocessor class
+2022-03-16/18:35:20		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-03-16/18:35:30		Entered the impute_missing_values method of the Preprocessor class
+2022-03-16/18:35:30		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-03-16/18:35:35		Entered the encode_categorical_columns method of the Preprocessor class
+2022-03-16/18:35:35		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-03-16/18:35:42		Entered the separate_label_feature method of the Preprocessor class
+2022-03-16/18:35:42		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2022-03-16/18:35:50		Entered the elbow_plot method of the KMeansClustering class
+2022-03-16/18:35:52		The optimum number of clusters is: 2 . Exited the elbow_plot method of the KMeansClustering class
+2022-03-16/18:36:00		Entered the create_clusters method of the KMeansClustering class
+2022-03-16/18:38:40		TrainingModel method initiated !
+2022-03-16/18:38:44		Entered the getData method of dataGetter class
+2022-03-16/18:38:44		Data Loading successful
+2022-03-16/18:38:46		Entered the remove_columns method of the Preprocessor class
+2022-03-16/18:38:46		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-03-16/18:38:47		Entered the is_null_present method of the Preprocessor class
+2022-03-16/18:38:47		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-03-16/18:38:48		Entered the impute_missing_values method of the Preprocessor class
+2022-03-16/18:38:48		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-03-16/18:38:49		Entered the encode_categorical_columns method of the Preprocessor class
+2022-03-16/18:38:49		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-03-16/18:38:50		Entered the separate_label_feature method of the Preprocessor class
+2022-03-16/18:38:50		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2022-03-16/18:38:52		Entered the elbow_plot method of the KMeansClustering class
+2022-03-16/18:38:54		The optimum number of clusters is: 2 . Exited the elbow_plot method of the KMeansClustering class
+2022-03-16/18:39:00		Entered the create_clusters method of the KMeansClustering class
+2022-03-16/18:45:38		TrainingModel method initiated !
+2022-03-16/18:45:56		Entered the getData method of dataGetter class
+2022-03-16/18:45:56		Data Loading successful
+2022-03-16/18:46:05		Entered the remove_columns method of the Preprocessor class
+2022-03-16/18:46:05		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-03-16/18:46:13		Entered the is_null_present method of the Preprocessor class
+2022-03-16/18:46:13		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-03-16/18:46:23		Entered the impute_missing_values method of the Preprocessor class
+2022-03-16/18:46:23		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-03-16/18:46:28		Entered the encode_categorical_columns method of the Preprocessor class
+2022-03-16/18:46:28		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-03-16/18:46:33		Entered the separate_label_feature method of the Preprocessor class
+2022-03-16/18:46:33		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2022-03-16/18:46:43		Entered the elbow_plot method of the KMeansClustering class
+2022-03-16/18:46:45		The optimum number of clusters is: 2 . Exited the elbow_plot method of the KMeansClustering class
+2022-03-16/18:46:51		Entered the create_clusters method of the KMeansClustering class
+2022-03-16/18:47:00		Entred saveModel method of file_Operations class !
+2022-03-16/18:47:00		Model Saved successfully::KMeans
+2022-03-16/18:47:07		succesfully created 2clusters. Exited the create_clusters method of the KMeansClustering class
+2022-03-16/18:47:55		Entered the scale_numerical_columns method of the Preprocessor class
+2022-03-16/18:51:51		TrainingModel method initiated !
+2022-03-16/18:51:53		Entered the getData method of dataGetter class
+2022-03-16/18:51:54		Data Loading successful
+2022-03-16/18:51:54		Entered the remove_columns method of the Preprocessor class
+2022-03-16/18:51:54		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-03-16/18:51:55		Entered the is_null_present method of the Preprocessor class
+2022-03-16/18:51:56		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-03-16/18:51:56		Entered the impute_missing_values method of the Preprocessor class
+2022-03-16/18:51:56		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-03-16/18:51:57		Entered the encode_categorical_columns method of the Preprocessor class
+2022-03-16/18:51:57		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-03-16/18:51:57		Entered the separate_label_feature method of the Preprocessor class
+2022-03-16/18:51:57		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2022-03-16/18:51:59		Entered the elbow_plot method of the KMeansClustering class
+2022-03-16/18:52:01		The optimum number of clusters is: 2 . Exited the elbow_plot method of the KMeansClustering class
+2022-03-16/18:52:04		Entered the create_clusters method of the KMeansClustering class
+2022-03-16/18:52:12		Entred saveModel method of file_Operations class !
+2022-03-16/18:52:12		Model Saved successfully::KMeans
+2022-03-16/18:52:14		succesfully created 2clusters. Exited the create_clusters method of the KMeansClustering class
+2022-03-16/18:52:26		Entered the scale_numerical_columns method of the Preprocessor class
+2022-03-16/18:52:41		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-03-16/18:52:52		Entered the scale_numerical_columns method of the Preprocessor class
+2022-03-16/18:59:21		TrainingModel method initiated !
+2022-03-16/18:59:57		Entered the getData method of dataGetter class
+2022-03-16/18:59:57		Data Loading successful
+2022-03-16/19:00:06		Entered the remove_columns method of the Preprocessor class
+2022-03-16/19:00:06		Column removal Successful.Exited the remove_columns method of the Preprocessor class
+2022-03-16/19:00:17		Entered the is_null_present method of the Preprocessor class
+2022-03-16/19:00:17		Finding missing values is a success.Data written to the null values file. Exited the is_null_present method of the Preprocessor class
+2022-03-16/19:00:26		Entered the impute_missing_values method of the Preprocessor class
+2022-03-16/19:00:26		Imputing missing values Successful. Exited the impute_missing_values method of the Preprocessor class
+2022-03-16/19:00:32		Entered the encode_categorical_columns method of the Preprocessor class
+2022-03-16/19:00:32		encoding for categorical values successful. Exited the encode_categorical_columns method of the Preprocessor class
+2022-03-16/19:00:37		Entered the separate_label_feature method of the Preprocessor class
+2022-03-16/19:00:37		Label Separation Successful. Exited the separate_label_feature method of the Preprocessor class
+2022-03-16/19:00:47		Entered the elbow_plot method of the KMeansClustering class
+2022-03-16/19:00:49		The optimum number of clusters is: 2 . Exited the elbow_plot method of the KMeansClustering class
+2022-03-16/19:00:53		Entered the create_clusters method of the KMeansClustering class
+2022-03-16/19:00:53		Entred saveModel method of file_Operations class !
+2022-03-16/19:00:53		Model Saved successfully::KMeans
+2022-03-16/19:00:53		succesfully created 2clusters. Exited the create_clusters method of the KMeansClustering class
+2022-03-16/19:01:05		Entered the scale_numerical_columns method of the Preprocessor class
+2022-03-16/19:01:05		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-03-16/19:01:07		Entered the scale_numerical_columns method of the Preprocessor class
+2022-03-16/19:01:07		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-03-16/19:01:31		getBestModel method executing
+2022-03-16/19:01:44		getBestParamForXGBoost method initiated
+2022-03-16/19:02:53		Best paramters for XGBClassifier :{'criterion': 'gini', 'max_depth': 8, 'n_estimators': 100}
+2022-03-16/19:03:11		ROC_AUC Score for xgboost--> 0.9754098360655737
+2022-03-16/19:03:17		getBestParamForSVC method initiated
+2022-03-16/19:06:26		Best paramters for SVC are: {'C': 0.1, 'kernel': 'rbf', 'random_state': 0}Exiting from SVC
+2022-03-16/19:06:34		ROC_AUC_SCORE for SVC -->0.5
+2022-03-16/19:07:01		Entred saveModel method of file_Operations class !
+2022-03-16/19:07:01		Model Saved successfully::XGBOOST0
+2022-03-16/19:07:17		Entered the scale_numerical_columns method of the Preprocessor class
+2022-03-16/19:07:17		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-03-16/19:07:17		Entered the scale_numerical_columns method of the Preprocessor class
+2022-03-16/19:07:17		scaling for numerical values successful. Exited the scale_numerical_columns method of the Preprocessor class
+2022-03-16/19:07:19		getBestModel method executing
+2022-03-16/19:07:19		getBestParamForXGBoost method initiated
+2022-03-16/19:07:36		Best paramters for XGBClassifier :{'criterion': 'gini', 'max_depth': 8, 'n_estimators': 100}
+2022-03-16/19:07:36		ROC_AUC Score for xgboost--> 0.9426229508196722
+2022-03-16/19:07:36		getBestParamForSVC method initiated
+2022-03-16/19:07:58		Best paramters for SVC are: {'C': 0.1, 'kernel': 'rbf', 'random_state': 0}Exiting from SVC
+2022-03-16/19:08:02		ROC_AUC_SCORE for SVC -->0.5
+2022-03-16/19:08:26		Entred saveModel method of file_Operations class !
+2022-03-16/19:08:26		Model Saved successfully::XGBOOST1
+2022-03-16/19:08:29		Training Completed Successfully, models are saved in Best_model_for_cluster

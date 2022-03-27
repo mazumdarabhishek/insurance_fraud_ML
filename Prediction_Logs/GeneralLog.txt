@@ -1,0 +1,59 @@
+2022-03-17/17:10:23		Good and Bad Data directory successfully created
+2022-03-17/17:13:22		BadRaw directory deleted before starting validation!!!
+2022-03-17/17:13:22		Good and Bad Data directory successfully created
+2022-03-17/17:19:57		BadRaw directory deleted before starting validation!!!
+2022-03-17/17:19:58		Good and Bad Data directory successfully created
+2022-03-17/17:21:27		BadRaw directory deleted before starting validation!!!
+2022-03-17/17:21:32		Good and Bad Data directory successfully created
+2022-03-17/17:23:08		BadRaw directory deleted before starting validation!!!
+2022-03-17/17:23:08		Good and Bad Data directory successfully created
+2022-03-17/17:27:39		BadRaw directory deleted before starting validation!!!
+2022-03-17/17:27:39		Good and Bad Data directory successfully created
+2022-03-17/17:33:49		BadRaw directory deleted before starting validation!!!
+2022-03-17/17:33:53		Good and Bad Data directory successfully created
+2022-03-17/17:37:32		BadRaw directory deleted before starting validation!!!
+2022-03-17/17:37:33		Good and Bad Data directory successfully created
+2022-03-17/17:41:37		BadRaw directory deleted before starting validation!!!
+2022-03-17/17:41:37		Good and Bad Data directory successfully created
+2022-03-17/17:45:45		BadRaw directory deleted before starting validation!!!
+2022-03-17/17:45:45		Good and Bad Data directory successfully created
+2022-03-17/17:48:36		Bad files moved to archive
+2022-03-17/17:48:36		Bad Raw Data Folder Deleted successfully!!
+2022-03-17/18:24:30		Good and Bad Data directory successfully created
+2022-03-17/18:25:59		Bad files moved to archive
+2022-03-17/18:25:59		Bad Raw Data Folder Deleted successfully!!
+2022-03-17/18:35:09		Good and Bad Data directory successfully created
+2022-03-17/18:36:39		Bad files moved to archive
+2022-03-17/18:36:39		Bad Raw Data Folder Deleted successfully!!
+2022-03-17/19:08:08		Good and Bad Data directory successfully created
+2022-03-17/19:09:40		Bad files moved to archive
+2022-03-17/19:09:40		Bad Raw Data Folder Deleted successfully!!
+2022-03-17/19:12:51		Good and Bad Data directory successfully created
+2022-03-17/19:14:21		Bad files moved to archive
+2022-03-17/19:14:21		Bad Raw Data Folder Deleted successfully!!
+2022-03-17/19:39:54		Good and Bad Data directory successfully created
+2022-03-17/19:41:26		Bad files moved to archive
+2022-03-17/19:41:26		Bad Raw Data Folder Deleted successfully!!
+2022-03-17/19:42:50		Good and Bad Data directory successfully created
+2022-03-17/19:44:20		Bad files moved to archive
+2022-03-17/19:44:20		Bad Raw Data Folder Deleted successfully!!
+2022-03-17/19:45:55		Good and Bad Data directory successfully created
+2022-03-17/19:47:26		Bad files moved to archive
+2022-03-17/19:47:26		Bad Raw Data Folder Deleted successfully!!
+2022-03-17/19:49:07		Good and Bad Data directory successfully created
+2022-03-17/19:50:36		Bad files moved to archive
+2022-03-17/19:50:36		Bad Raw Data Folder Deleted successfully!!
+2022-03-17/19:52:25		Good and Bad Data directory successfully created
+2022-03-17/19:53:56		Bad files moved to archive
+2022-03-17/19:53:56		Bad Raw Data Folder Deleted successfully!!
+2022-03-23/11:11:28		Good and Bad Data directory successfully created
+2022-03-23/12:04:23		BadRaw directory deleted before starting validation!!!
+2022-03-23/12:04:23		Good and Bad Data directory successfully created
+2022-03-23/12:05:49		Bad files moved to archive
+2022-03-23/12:05:49		Bad Raw Data Folder Deleted successfully!!
+2022-03-23/12:12:45		Good and Bad Data directory successfully created
+2022-03-23/12:14:12		Bad files moved to archive
+2022-03-23/12:14:12		Bad Raw Data Folder Deleted successfully!!
+2022-03-23/16:52:39		Good and Bad Data directory successfully created
+2022-03-23/16:54:07		Bad files moved to archive
+2022-03-23/16:54:07		Bad Raw Data Folder Deleted successfully!!

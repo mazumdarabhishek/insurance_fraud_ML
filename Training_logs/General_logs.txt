@@ -1,0 +1,130 @@
+2022-03-15/16:06:50		God_raw & Bad_Raw directories are created successfully!
+2022-03-15/16:25:45		God_raw & Bad_Raw directories are created successfully!
+2022-03-15/16:53:06		God_raw & Bad_Raw directories are created successfully!
+2022-03-15/17:05:36		Deleted existing files in Bad_Raw Successfully!
+2022-03-15/17:06:02		God_raw & Bad_Raw directories are created successfully!
+2022-03-15/17:09:31		Deleted existing files in Good_Raw Successfully!
+2022-03-15/17:09:31		Deleted existing files in Bad_Raw Successfully!
+2022-03-15/17:09:31		God_raw & Bad_Raw directories are created successfully!
+2022-03-15/17:12:26		Deleted existing files in Good_Raw Successfully!
+2022-03-15/17:12:26		Deleted existing files in Bad_Raw Successfully!
+2022-03-15/17:12:26		God_raw & Bad_Raw directories are created successfully!
+2022-03-15/17:14:08		Deleted existing files in Good_Raw Successfully!
+2022-03-15/17:14:08		Deleted existing files in Bad_Raw Successfully!
+2022-03-15/17:14:08		God_raw & Bad_Raw directories are created successfully!
+2022-03-15/17:17:13		Deleted existing files in Good_Raw Successfully!
+2022-03-15/17:17:13		Deleted existing files in Bad_Raw Successfully!
+2022-03-15/17:17:13		God_raw & Bad_Raw directories are created successfully!
+2022-03-15/17:58:07		Deleted existing files in Good_Raw Successfully!
+2022-03-15/17:58:07		Deleted existing files in Bad_Raw Successfully!
+2022-03-15/17:58:07		God_raw & Bad_Raw directories are created successfully!
+2022-03-15/18:11:20		Deleted existing files in Good_Raw Successfully!
+2022-03-15/18:11:20		Deleted existing files in Bad_Raw Successfully!
+2022-03-15/18:11:20		God_raw & Bad_Raw directories are created successfully!
+2022-03-15/18:19:30		Deleted existing files in Good_Raw Successfully!
+2022-03-15/18:19:30		Deleted existing files in Bad_Raw Successfully!
+2022-03-15/18:19:30		God_raw & Bad_Raw directories are created successfully!
+2022-03-15/18:30:33		Deleted existing files in Good_Raw Successfully!
+2022-03-15/18:30:33		Deleted existing files in Bad_Raw Successfully!
+2022-03-15/18:30:33		God_raw & Bad_Raw directories are created successfully!
+2022-03-15/18:31:31		Deleted existing files in Good_Raw Successfully!
+2022-03-15/18:31:31		Deleted existing files in Bad_Raw Successfully!
+2022-03-15/18:31:31		God_raw & Bad_Raw directories are created successfully!
+2022-03-15/18:33:46		Deleted existing files in Good_Raw Successfully!
+2022-03-15/18:33:46		Deleted existing files in Bad_Raw Successfully!
+2022-03-15/18:33:46		God_raw & Bad_Raw directories are created successfully!
+2022-03-15/18:34:57		Deleted existing files in Good_Raw Successfully!
+2022-03-15/18:34:57		Deleted existing files in Bad_Raw Successfully!
+2022-03-15/18:34:57		God_raw & Bad_Raw directories are created successfully!
+2022-03-15/18:36:41		Deleted existing files in Good_Raw Successfully!
+2022-03-15/18:36:41		Deleted existing files in Bad_Raw Successfully!
+2022-03-15/18:36:41		God_raw & Bad_Raw directories are created successfully!
+2022-03-15/18:41:22		Deleted existing files in Good_Raw Successfully!
+2022-03-15/18:41:22		Deleted existing files in Bad_Raw Successfully!
+2022-03-15/18:41:22		God_raw & Bad_Raw directories are created successfully!
+2022-03-15/18:48:24		Deleted existing files in Good_Raw Successfully!
+2022-03-15/18:48:24		Deleted existing files in Bad_Raw Successfully!
+2022-03-15/18:48:24		God_raw & Bad_Raw directories are created successfully!
+2022-03-15/18:58:41		Deleted existing files in Good_Raw Successfully!
+2022-03-15/18:58:41		Deleted existing files in Bad_Raw Successfully!
+2022-03-15/18:58:41		God_raw & Bad_Raw directories are created successfully!
+2022-03-15/19:08:34		Deleted existing files in Good_Raw Successfully!
+2022-03-15/19:08:34		Deleted existing files in Bad_Raw Successfully!
+2022-03-15/19:08:34		God_raw & Bad_Raw directories are created successfully!
+2022-03-15/19:09:05		Deleted existing files in Good_Raw Successfully!
+2022-03-15/19:09:05		Deleted existing files in Bad_Raw Successfully!
+2022-03-15/19:10:41		God_raw & Bad_Raw directories are created successfully!
+2022-03-15/19:11:29		Deleted existing files in Good_Raw Successfully!
+2022-03-15/19:11:29		Deleted existing files in Bad_Raw Successfully!
+2022-03-15/19:11:29		God_raw & Bad_Raw directories are created successfully!
+2022-03-15/19:11:39		Deleted existing files in Good_Raw Successfully!
+2022-03-15/19:11:39		Deleted existing files in Bad_Raw Successfully!
+2022-03-15/19:11:39		God_raw & Bad_Raw directories are created successfully!
+2022-03-15/19:13:23		Deleted existing files in Good_Raw Successfully!
+2022-03-15/19:13:23		Deleted existing files in Bad_Raw Successfully!
+2022-03-15/19:13:23		God_raw & Bad_Raw directories are created successfully!
+2022-03-15/19:13:56		Deleted existing files in Good_Raw Successfully!
+2022-03-15/19:13:56		Deleted existing files in Bad_Raw Successfully!
+2022-03-15/19:13:56		God_raw & Bad_Raw directories are created successfully!
+2022-03-15/19:15:20		Deleted existing files in Good_Raw Successfully!
+2022-03-15/19:15:20		Deleted existing files in Bad_Raw Successfully!
+2022-03-15/19:15:20		God_raw & Bad_Raw directories are created successfully!
+2022-03-15/19:18:55		Deleted existing files in Good_Raw Successfully!
+2022-03-15/19:18:55		Deleted existing files in Bad_Raw Successfully!
+2022-03-15/19:18:55		God_raw & Bad_Raw directories are created successfully!
+2022-03-15/19:20:33		Deleted existing files in Good_Raw Successfully!
+2022-03-15/19:20:33		Deleted existing files in Bad_Raw Successfully!
+2022-03-15/19:20:33		God_raw & Bad_Raw directories are created successfully!
+2022-03-15/19:24:09		Deleted existing files in Good_Raw Successfully!
+2022-03-15/19:24:09		Deleted existing files in Bad_Raw Successfully!
+2022-03-15/19:24:09		God_raw & Bad_Raw directories are created successfully!
+2022-03-15/19:25:35		Deleted existing files in Good_Raw Successfully!
+2022-03-15/19:25:35		Deleted existing files in Bad_Raw Successfully!
+2022-03-16/08:47:11		God_raw & Bad_Raw directories are created successfully!
+2022-03-16/08:49:49		Deleted existing files in Good_Raw Successfully!
+2022-03-16/08:49:49		Deleted existing files in Bad_Raw Successfully!
+2022-03-16/08:49:49		God_raw & Bad_Raw directories are created successfully!
+2022-03-16/08:56:31		Deleted existing files in Good_Raw Successfully!
+2022-03-16/08:56:35		Deleted existing files in Bad_Raw Successfully!
+2022-03-16/09:29:11		God_raw & Bad_Raw directories are created successfully!
+2022-03-16/09:30:39		Deleted existing files in Good_Raw Successfully!
+2022-03-16/09:30:39		Deleted existing files in Bad_Raw Successfully!
+2022-03-16/09:36:27		God_raw & Bad_Raw directories are created successfully!
+2022-03-16/09:37:51		Deleted existing files in Good_Raw Successfully!
+2022-03-16/09:37:51		Deleted existing files in Bad_Raw Successfully!
+2022-03-16/09:41:01		God_raw & Bad_Raw directories are created successfully!
+2022-03-16/09:42:28		Deleted existing files in Good_Raw Successfully!
+2022-03-16/09:42:28		Deleted existing files in Bad_Raw Successfully!
+2022-03-16/09:59:14		God_raw & Bad_Raw directories are created successfully!
+2022-03-16/10:00:42		Deleted existing files in Good_Raw Successfully!
+2022-03-16/10:00:42		Deleted existing files in Bad_Raw Successfully!
+2022-03-16/17:36:24		God_raw & Bad_Raw directories are created successfully!
+2022-03-16/17:37:54		Deleted existing files in Good_Raw Successfully!
+2022-03-16/17:37:54		Deleted existing files in Bad_Raw Successfully!
+2022-03-16/18:03:52		God_raw & Bad_Raw directories are created successfully!
+2022-03-16/18:05:23		Deleted existing files in Good_Raw Successfully!
+2022-03-16/18:05:23		Deleted existing files in Bad_Raw Successfully!
+2022-03-16/18:16:37		God_raw & Bad_Raw directories are created successfully!
+2022-03-16/18:18:07		Deleted existing files in Good_Raw Successfully!
+2022-03-16/18:18:07		Deleted existing files in Bad_Raw Successfully!
+2022-03-16/18:19:26		God_raw & Bad_Raw directories are created successfully!
+2022-03-16/18:20:52		Deleted existing files in Good_Raw Successfully!
+2022-03-16/18:20:52		Deleted existing files in Bad_Raw Successfully!
+2022-03-16/18:22:29		God_raw & Bad_Raw directories are created successfully!
+2022-03-16/18:23:55		Deleted existing files in Good_Raw Successfully!
+2022-03-16/18:23:55		Deleted existing files in Bad_Raw Successfully!
+2022-03-16/18:33:04		God_raw & Bad_Raw directories are created successfully!
+2022-03-16/18:34:29		Deleted existing files in Good_Raw Successfully!
+2022-03-16/18:34:29		Deleted existing files in Bad_Raw Successfully!
+2022-03-16/18:36:46		God_raw & Bad_Raw directories are created successfully!
+2022-03-16/18:38:09		Deleted existing files in Good_Raw Successfully!
+2022-03-16/18:38:09		Deleted existing files in Bad_Raw Successfully!
+2022-03-16/18:44:01		God_raw & Bad_Raw directories are created successfully!
+2022-03-16/18:45:26		Deleted existing files in Good_Raw Successfully!
+2022-03-16/18:45:26		Deleted existing files in Bad_Raw Successfully!
+2022-03-16/18:50:19		God_raw & Bad_Raw directories are created successfully!
+2022-03-16/18:51:43		Deleted existing files in Good_Raw Successfully!
+2022-03-16/18:51:44		Deleted existing files in Bad_Raw Successfully!
+2022-03-16/18:57:51		God_raw & Bad_Raw directories are created successfully!
+2022-03-16/18:59:15		Deleted existing files in Good_Raw Successfully!
+2022-03-16/18:59:15		Deleted existing files in Bad_Raw Successfully!

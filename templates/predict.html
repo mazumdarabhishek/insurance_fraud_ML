@@ -1,0 +1,22 @@
+<!doctype html>
+<html>
+  <head>
+    <title>Fraud Predictor</title>
+  </head>
+  <body>
+    <h2>File Uploaded successfully, Start Prediction ?</h2>
+
+    <form method="POST" action= "/predict">
+      <p><input type="submit" value="Predict"></p>
+    </form>
+    <p>This may Take Several Minutes as the following Steps are being performed as we wait:</p>
+    <ol>
+      <li>File Name Validation</li>
+      <li>Column Counts Validation</li>
+      <li>Data Transformation & Pre-processing</li>
+      <li>Data Storage into SQL DataBase</li>
+      <li>Prediction</li>
+    </ol>
+    <p>Then You shall be redirected to result downloads page</p>
+  </body>
+</html>
